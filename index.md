@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./posts/2024-01-HackTheBox_SAU.md).
+[Link to another page](./_posts/2024-01-HackTheBox_SAU.md).
 
 There should be whitespace between paragraphs.
 
