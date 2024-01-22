@@ -265,7 +265,6 @@ drwxrwxr-x 3 joshua joshua 4096 Jan 13 22:54 .local
 -rw-r----- 1 root   joshua   33 Jan 13 22:37 user.txt
 -rw-r--r-- 1 joshua joshua   39 Sep 14 14:45 .vimrc
 joshua@codify:~$
-
 ```
 
 **Let’s get the flag:**
