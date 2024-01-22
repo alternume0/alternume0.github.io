@@ -3,7 +3,7 @@ layout: post
 title: "Hack The Box write-up - SAU"
 author: "Alternume0"
 categories: journal
-tags: [documentation,sample]
+tags: [htb]
 image: sau_01.jpg
 ---
 
@@ -11,7 +11,7 @@ Today we will resolve SAU.
 
 SAU is a Linux machine with a level of dicultay easy.
 
-This machine was retired couple of days ago and in this case, I  will show you how to take adavantage of a SSRF vulnerabilty in order to get access to some internal resources in the victim's machine that will drive to a OS command injection ........................................................................
+This machine was retired couple of days ago and in this case, I  will show you how to take adavantage of a SSRF vulnerabilty in order to get access to some internal resources in the victim's machine that will drive to a OS command injection.
 
 We will also see some techniques to escalate privileges using sudo.
 
