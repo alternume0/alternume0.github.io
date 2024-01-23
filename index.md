@@ -12,5 +12,7 @@ layout: default
 
 ### [DEVVORTEX](./2024-01-19-HackTheBox_DEVVORTEX.html)
 
+### [COZYHOSTING](./2024-01-22-HackTheBox_COZYHOSTING.html)
+
 # OLD BLOG 
 [Visit my old blog](./2024-01-08-old_blog.html)
